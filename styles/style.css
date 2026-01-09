@@ -108,7 +108,6 @@ ol {
  }
 
 .result__video {
-  inline-size: inherit;
   object-fit: cover;
   block-size: 100%;
   inline-size: 100%;
